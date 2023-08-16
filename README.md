@@ -15,3 +15,4 @@
 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | [python3](https://github.com/noviligx/leetcode-python3/blob/main/string/easy/2011.md) | easy | string, array, simulation | 88.6% |
 | 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [python3](https://github.com/noviligx/leetcode-python3/blob/main/string/easy/2114.md) | easy | string, array | 86.6% |
 | 2129 | [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/) | [python3](https://github.com/noviligx/leetcode-python3/blob/main/string/easy/2129.md) | easy | string | 62.5% |
+| 2810 | [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/) | [python3](https://github.com/noviligx/leetcode-python3/blob/main/string/easy/2810.md) | easy | string, simulation | 82.6% |
