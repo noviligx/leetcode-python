@@ -4,6 +4,7 @@
 
 | # | Title | Solution | Difficulty | Tags | Acceptance |
 | --- | --- | --- | --- | --- | --- |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [python3](https://github.com/noviligx/leetcode-python3/blob/main/string/easy/9.md) | easy | math | 54.2% |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [python3](https://github.com/noviligx/leetcode-python3/blob/main/string/easy/709.md) | easy | string | 82.6% |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [python3](https://github.com/noviligx/leetcode-python3/blob/main/string/easy/771.md) | easy | string, hash table | 88.3% |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [python3](https://github.com/noviligx/leetcode-python3/blob/main/string/easy/1108.md) | easy | string | 88.9% |
